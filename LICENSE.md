@@ -1,4 +1,4 @@
-# 
+# MEV-optimized liquidity sniper bot | stop-loss + slippage-control offers the most advanced liquidity sniper bot, with stop-loss and slippage-control. Ideal for professional MEV
 
 
 
